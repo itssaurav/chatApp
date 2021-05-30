@@ -1,0 +1,18 @@
+.container{
+    width:500px;
+    height:500px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform:translate(50% 50%) ;
+    margin: -250px 0 0 -250px;
+    background: #ccc;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.header input{
+    width: 90%;
+    padding:10px;
+}
